@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Juntos</string>
+    <string name="title_main">Juntos ♥</string>
+    <string name="subtitle_main">Escolha a data e hora especial</string>
+    <string name="selected_date_format">Data escolhida: %1$s</string>
+    <string name="btn_pick_date">Escolher data e hora</string>
+    <string name="btn_save">Salvar</string>
+    <string name="btn_add_widget">Adicionar widget à tela inicial</string>
+    <string name="date_saved">Data salva ♥</string>
+    <string name="add_widget_manually">Toque e segure a tela inicial, escolha Widgets e procure por Juntos</string>
+    <string name="lock_screen_note">O Android moderno não permite mais widgets de apps na tela de bloqueio de fábrica. O widget \"Juntos\" funciona normalmente na tela inicial. Em alguns aparelhos/launchers personalizados ele também pode aparecer na tela de bloqueio.</string>
+    <string name="widget_no_date">Toque para definir uma data ♥</string>
+    <string name="widget_label">Juntos há</string>
+</resources>

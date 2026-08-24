@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="plum_dark">#2A1220</color>
+    <color name="plum_darker">#170A11</color>
+    <color name="rose_gold">#E8B4BC</color>
+    <color name="rose_gold_soft">#C98E9A</color>
+    <color name="blush">#F6E4E8</color>
+    <color name="white">#FFFFFF</color>
+    <color name="text_muted">#B79AA3</color>
+</resources>
